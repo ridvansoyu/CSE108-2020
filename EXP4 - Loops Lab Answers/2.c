@@ -1,4 +1,5 @@
 /******************************************************************************
+
 Question 2.
 Write a program that calculates the formula in the question.,
 Read the value of n from the keyboard.
