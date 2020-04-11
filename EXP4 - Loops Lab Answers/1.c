@@ -1,4 +1,5 @@
 /******************************************************************************
+
 Question 1.
 Write a program to calculate sum of the numbers between 10 and 100 using all types
 of loop we have learned so far (for, while and do ... while). The equation is given
