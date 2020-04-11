@@ -1,4 +1,5 @@
 /******************************************************************************
+
 Question 5.
 Read a number from user. Then ask user to enter number amount of values and
 calculate sum, minimum and maximum of these numbers.
