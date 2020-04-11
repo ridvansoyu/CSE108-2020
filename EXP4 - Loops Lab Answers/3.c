@@ -1,4 +1,5 @@
 /******************************************************************************
+
 Question 3.
 Write a program that prints requested amount of asterisk characters to the screen.
 This program should ask the amount again and again until user enters a value higher
